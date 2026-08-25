@@ -1,5 +1,8 @@
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: "air" # or "default", "air", "dark", "dirt";
+remote_theme: "mmistakes/minimal-mistakes"
+minimal_mistakes_skin: "air"
+plugins:
+  - jekyll-remote-theme
+  - jekyll-include-cache
 
 title: "Yash Yadurai"
 name: "Yash Yadurai"

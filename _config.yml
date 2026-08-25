@@ -1,0 +1,35 @@
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "air" # or "default", "air", "dark", "dirt";
+
+title: "Yash Yadurai"
+name: "Yash Yadurai"
+description: "Personal site and intro page"
+url: "https://yashyadurai.github.io"
+
+author:
+  name: "Yash Yadurai"
+  avatar: "/assets/images/avatar.jpg"
+  bio: "One-line description of who you are and what you do."
+  location: "India"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yashyadurai"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yashyadurai"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:yashyadurai001@gmail.com"
+
+markdown: kramdown
+plugins:
+  - jekyll-include-cache
+
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true

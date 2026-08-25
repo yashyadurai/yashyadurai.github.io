@@ -3,10 +3,6 @@ layout: home
 author_profile: true
 ---
 
-## Hi, I'm Yash Yadurai
-
-A Developer
-
 ### What I'm working on
 - Launching a personal portfolio to showcase my projects
 - Starting a blog on my Engineering experiences

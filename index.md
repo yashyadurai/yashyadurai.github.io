@@ -1,8 +1,8 @@
 ---
 layout: home
+title: "Hi, I'm Yash Yadurai"
 author_profile: true
 ---
-## Hi, I'm Yash Yadurai
 
 A Developer
 
